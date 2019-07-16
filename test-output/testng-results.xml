@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24785" started-at="2019-07-12T07:46:28Z" finished-at="2019-07-12T07:46:53Z">
+  <suite name="Default suite" duration-ms="45790" started-at="2019-07-16T08:12:57Z" finished-at="2019-07-16T08:13:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24785" started-at="2019-07-12T07:46:28Z" finished-at="2019-07-12T07:46:53Z">
+    <test name="Default test" duration-ms="45790" started-at="2019-07-16T08:12:57Z" finished-at="2019-07-16T08:13:43Z">
       <class name="com.inetBankingV01.TestCases.LoginPageTestcase">
-        <test-method status="PASS" signature="initialization()[pri:0, instance:com.inetBankingV01.TestCases.LoginPageTestcase@357246de]" name="initialization" is-config="true" duration-ms="21158" started-at="2019-07-12T13:16:28Z" finished-at="2019-07-12T13:16:49Z">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.inetBankingV01.TestCases.LoginPageTestcase@357246de]" name="initialization" is-config="true" duration-ms="41672" started-at="2019-07-16T13:42:57Z" finished-at="2019-07-16T13:43:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialization -->
-        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.inetBankingV01.TestCases.LoginPageTestcase@357246de]" name="loginPage" duration-ms="3612" started-at="2019-07-12T13:16:49Z" finished-at="2019-07-12T13:16:53Z">
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.inetBankingV01.TestCases.LoginPageTestcase@357246de]" name="loginPage" duration-ms="4073" started-at="2019-07-16T13:43:38Z" finished-at="2019-07-16T13:43:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
